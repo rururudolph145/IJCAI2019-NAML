@@ -17,6 +17,8 @@ The codes of Neural News Recommendation with Attentive Multi-view Learning
 ```
 Environment:
 
-tf==1.12.0
+Python 3.12
 
-keras==2.2.4
+tensorflow==2.19.0
+
+tf.keras (built in)
